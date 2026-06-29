@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Simulation
 |  |
 | ------- |
