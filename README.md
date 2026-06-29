@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0225-implement-stack-using-queues) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0739-daily-temperatures) |
@@ -89,5 +91,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
