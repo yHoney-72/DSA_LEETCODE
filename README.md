@@ -47,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
@@ -93,4 +96,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0739-daily-temperatures) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
