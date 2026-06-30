@@ -10,22 +10,38 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        ArrayList<Integer>arr = new ArrayList<>();
-        for(ListNode head : lists ){
-            ListNode temp = head;
-            while(temp!=null){
-                arr.add(temp.val);
-              temp =  temp.next;
-            }
-        }
-       Collections.sort(arr);
-        ListNode dummy = new ListNode(-1);
-        ListNode curr = dummy;
-        for(int i :arr){
-          curr.next = new ListNode(i);
-          curr = curr.next;
-        }
-    return dummy.next;
+      if(lists == null || lists.length==0){
+        return null ;
+      }
+      return mergeLists(lists , 0 , lists.length-1);
     }
-    
+    private ListNode merge(ListNode list1 , ListNode list2){
+      ListNode dummy = new ListNode(-1);
+      ListNode tail = dummy;
+      while(list1!=null && list2!= null){
+        if(list1.val<=list2.val){
+            tail.next = list1;
+            list1 = list1.next;
+        }else{
+            tail.next = list2;
+            list2 = list2.next;
+        }
+        tail = tail.next;
+      }
+      if(list1!=null){
+        tail.next = list1;
+      }else{
+        tail.next = list2;
+      }
+      return dummy.next;
+    }
+    private ListNode mergeLists(ListNode[] lists, int left, int right){
+        if(left == right){
+            return lists[left] ;
+        }
+        int mid = left+(right - left)/2;
+        ListNode leftNode = mergeLists(lists,left , mid);
+        ListNode rightNode = mergeLists(lists,mid+1, right);
+       return merge(leftNode , rightNode);
+    }
 }
