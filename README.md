@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
 ## Merge Sort
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Simulation
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -131,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
 ## Tree
 |  |
 | ------- |
