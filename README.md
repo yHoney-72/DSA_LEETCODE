@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -167,4 +168,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
