@@ -40,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1922-count-good-numbers) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1922-count-good-numbers](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
