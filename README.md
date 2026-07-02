@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
