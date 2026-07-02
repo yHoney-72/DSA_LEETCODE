@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0046-permutations) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
