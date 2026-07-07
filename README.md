@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0216-combination-sum-iii) |
