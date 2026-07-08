@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0224-basic-calculator) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -194,12 +195,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0089-gray-code) |
 | [0784-letter-case-permutation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0784-letter-case-permutation) |
 ## Matrix
 |  |
