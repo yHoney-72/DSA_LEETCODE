@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0295-find-median-from-data-stream) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
 | [0208-implement-trie-prefix-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -316,4 +319,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
