@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
 | [0208-implement-trie-prefix-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0212-word-search-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0113-path-sum-ii) |
+| [0212-word-search-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0037-sudoku-solver) |
+| [0212-word-search-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0212-word-search-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -320,4 +324,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
