@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0437-path-sum-iii) |
 | [0669-trim-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0684-redundant-connection) |
 | [0814-binary-tree-pruning](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0814-binary-tree-pruning) |
 | [1382-balance-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0404-sum-of-left-leaves) |
+| [0684-redundant-connection](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0684-redundant-connection) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -325,4 +327,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0212-word-search-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0684-redundant-connection) |
+## Graph Theory
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
