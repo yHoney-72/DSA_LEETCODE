@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0148-sort-list) |
+| [0307-range-sum-query-mutable](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0307-range-sum-query-mutable](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0212-word-search-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0216-combination-sum-iii) |
+| [0307-range-sum-query-mutable](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0406-queue-reconstruction-by-height](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0406-queue-reconstruction-by-height) |
@@ -322,10 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0406-queue-reconstruction-by-height) |
 ## Trie
 |  |
