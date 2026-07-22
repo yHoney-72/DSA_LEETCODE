@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0739-daily-temperatures) |
+| [0994-rotting-oranges](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Dynamic Programming
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0037-sudoku-solver) |
 | [0212-word-search-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0212-word-search-ii) |
+| [0994-rotting-oranges](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0684-redundant-connection](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0721-accounts-merge) |
+| [0994-rotting-oranges](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 ## Binary Indexed Tree
 |  |
 | ------- |
