@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0406-queue-reconstruction-by-height) |
+| [0435-non-overlapping-intervals](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0406-queue-reconstruction-by-height](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0406-queue-reconstruction-by-height) |
+| [0435-non-overlapping-intervals](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0682-baseball-game) |
 | [0721-accounts-merge](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0721-accounts-merge) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Monotonic Stack
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
+| [0435-non-overlapping-intervals](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
