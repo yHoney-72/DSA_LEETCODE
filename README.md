@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0051-n-queens) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
