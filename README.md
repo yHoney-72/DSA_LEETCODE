@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0763-partition-labels](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0881-boats-to-save-people) |
 ## Merge Sort
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0739-daily-temperatures) |
+| [0881-boats-to-save-people](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0670-maximum-swap) |
 | [0763-partition-labels](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0881-boats-to-save-people) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1382-balance-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
