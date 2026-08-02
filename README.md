@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0630-course-schedule-iii) |
 | [0721-accounts-merge](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0881-boats-to-save-people) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0630-course-schedule-iii) |
 | [0682-baseball-game](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0682-baseball-game) |
 | [0721-accounts-merge](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0729-my-calendar-i) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0630-course-schedule-iii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
 ## Bucket Sort
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0630-course-schedule-iii) |
 | [0670-maximum-swap](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0670-maximum-swap) |
 | [0763-partition-labels](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
