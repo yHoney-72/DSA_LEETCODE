@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
+| [0091-decode-ways](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
