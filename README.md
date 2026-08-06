@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1654-minimum-jumps-to-reach-home) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1654-minimum-jumps-to-reach-home) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0721-accounts-merge) |
 | [0994-rotting-oranges](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1654-minimum-jumps-to-reach-home) |
 ## Binary Indexed Tree
 |  |
 | ------- |
