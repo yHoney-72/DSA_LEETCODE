@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0406-queue-reconstruction-by-height) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0212-word-search-ii) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0621-task-scheduler) |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
@@ -458,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0322-coin-change) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
