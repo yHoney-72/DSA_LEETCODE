@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0670-maximum-swap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1922-count-good-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1654-minimum-jumps-to-reach-home) |
+| [2965-find-missing-and-repeated-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1654-minimum-jumps-to-reach-home) |
+| [2965-find-missing-and-repeated-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0212-word-search-ii) |
 | [0994-rotting-oranges](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
+| [2965-find-missing-and-repeated-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Depth-First Search
 |  |
 | ------- |
