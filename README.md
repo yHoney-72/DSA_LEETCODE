@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
