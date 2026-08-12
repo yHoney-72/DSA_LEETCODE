@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0784-letter-case-permutation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0784-letter-case-permutation) |
 ## Matrix
 |  |
