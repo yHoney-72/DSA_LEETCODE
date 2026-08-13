@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0148-sort-list) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0148-sort-list) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0045-jump-game-ii) |
