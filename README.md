@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0763-partition-labels](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0216-combination-sum-iii) |
+| [0287-find-the-duplicate-number](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0307-range-sum-query-mutable](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0669-trim-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0784-letter-case-permutation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0784-letter-case-permutation) |
 ## Matrix
 |  |
@@ -506,4 +510,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
