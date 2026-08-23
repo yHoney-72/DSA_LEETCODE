@@ -12,7 +12,16 @@ class Solution {
           }
         }
         if(pivotIndex ==-1){
-            Arrays.sort(arr,0,n);
+            // Arrays.sort(arr,0,n);
+             int left  =0;
+            int right = n-1;
+            while(left<right){
+            int temp2=arr[left];
+            arr[left]= arr[right];
+            arr[right] = temp2 ;
+            left++;
+            right --;
+        }
             return ;
         }
         int min = Integer.MAX_VALUE;
@@ -26,7 +35,16 @@ class Solution {
         int temp = arr[pivotIndex];
         arr[pivotIndex] = arr[minIndex];
         arr[minIndex] = temp;
-        Arrays.sort(arr,pivotIndex+1,n);
+        //Arrays.sort(arr,pivotIndex+1,n);  tc ==> o(n log n )
+        int left = pivotIndex+1;
+        int right = n-1;
+        while(left<right){
+            int temp2=arr[left];
+            arr[left]= arr[right];
+            arr[right] = temp2 ;
+            left++;
+            right --;
+        }
     }
 }
 
