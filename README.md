@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0212-word-search-ii) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0212-word-search-ii) |
 | [0994-rotting-oranges](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0110-balanced-binary-tree) |
