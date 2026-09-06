@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
