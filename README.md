@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0406-queue-reconstruction-by-height) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0443-string-compression](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0567-permutation-in-string) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0567-permutation-in-string) |
