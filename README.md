@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0881-boats-to-save-people) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0443-string-compression](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0763-partition-labels) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0567-permutation-in-string) |
 ## Monotonic Queue
 |  |
 | ------- |
