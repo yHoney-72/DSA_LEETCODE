@@ -9,21 +9,21 @@ class Solution {
     private void helper( List<List<Integer>>result,List<Integer>list,int[] candidates,int target,int sum,int index){
         if(sum==target){
             result.add(new ArrayList<>(list));
-            return ;
-        }
-        if(sum>target||index==candidates.length){
             return;
         }
-        int next = index+1;
-        while(next<candidates.length&&candidates[index]==candidates[next]){
-            next++;
+        if(sum>target){
+            return;
         }
-        list.add(candidates[index]);
-        sum+=candidates[index];
-        helper(result,list,candidates,target,sum,index+1);
-        sum-=candidates[index];
-        list.remove(list.size()-1);
-        helper(result,list,candidates,target,sum,next);
-
+        for(int i=index;i<candidates.length;i++){
+            if(i>index&&candidates[i]==candidates[i-1]){
+                continue;
+            }
+            if(sum+candidates[i]>target){
+                break;
+            }
+            list.add(candidates[i]);
+            helper(result,list,candidates,target,sum+candidates[i],i+1);
+            list.remove(list.size()-1);
+        }
+       }
     }
-}
