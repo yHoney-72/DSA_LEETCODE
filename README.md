@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0322-coin-change](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0403-frog-jump) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0784-letter-case-permutation) |
