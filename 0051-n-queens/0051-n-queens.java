@@ -1,57 +1,54 @@
 class Solution {
     public List<List<String>> solveNQueens(int n) {
-       List<List<String>> result = new ArrayList<>();
-       char board[][] = new char[n][n];
-       for(int i = 0 ; i<n; i++){
-        Arrays.fill(board[i],'.');
-       }
-       nQueens(result,board,n,0);
-       return result;
-  }
-    private void nQueens(List<List<String>> result, char board[][] , int n , int row ){
-        
-      if(row==n){
-        List<String>current = new ArrayList<>();
-        for(int i = 0 ; i<n; i++){
-            current.add(new String(board[i]));
-        }
-        result.add(current);
-        return;
-      }
+      List<List<String>>result = new ArrayList<>();
+      List<String>list = new ArrayList<>();
+      char[][]board = new char[n][n];
+      for (int i = 0; i < n; i++) {
+    for (int j = 0; j < n; j++) {
+        board[i][j] = '.';
+    }
+}
+      helper(result,list,0,board,n);
+      return result;
+    }
+    private void helper(List<List<String>>result,List<String>list,int row,char[][]board,int n){
+          if(row==n){
+            result.add(new ArrayList<>(list));
+            return;
+          }
+          for(int j =0; j<n;j++){
+             if(check(board,row,n,j)){
+                board[row][j]='Q';
+                list.add(new String(board[row]));
+                helper(result,list,row+1,board,n);
+                list.remove(list.size()-1);
+                board[row][j]='.';
+             }
+          }
 
-      for(int col = 0 ; col< n; col++){
-        if(isSafe(board,n,row,col)){
-            board[row][col] = 'Q';
-            nQueens(result,board,n,row+1);
-            board[row][col]='.';
         }
-        
-        
-      }
 
-  }
-    private boolean isSafe(char board[][],int n , int row, int col){
-        for(int i = 0 ; i<n;i++){
-            if(board[i][col]=='Q'){//col check
+    private boolean check(char[][]board, int row, int n,int col ){
+        for(int i=0;i<row;i++){
+            if(board[i][col]=='Q'){
                 return false;
             }
         }
-        for(int j = 0 ; j<n ; j++){
-            if(board[row][j]=='Q'){ // row check
-                    return false;
-              }
-                
-          }
-          for(int i = row,j=col;i>=0&&j>=0;i--,j--){ // left diagonal check
+        for(int j=0; j<col; j++){
+            if(board[row][j]=='Q'){
+                return false;
+            }
+        }
+        for(int i=row-1,j=col-1;i>=0&&j>=0;i--,j--){
             if(board[i][j]=='Q'){
                 return false;
             }
-          }
-          for(int i = row , j=col;i>=0&&j<n;i--,j++){ // right check
+        }
+        for(int i=row-1,j=col+1;i>=0&&j<n;i--,j++){
             if(board[i][j]=='Q'){
                 return false;
             }
-          }
-          return true;
+        }
+        return true;
     }
 }
