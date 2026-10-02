@@ -658,4 +658,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
