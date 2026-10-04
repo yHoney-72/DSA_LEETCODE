@@ -6,11 +6,13 @@ class Solution {
       return result;
     }
     private void helper(int nums[],List<Integer>list,List<List<Integer>>result,int n,int start){
+       if(start==n){
         result.add(new ArrayList<>(list));
-        for(int i=start;i<n;i++){
-            list.add(nums[i]);
-            helper(nums,list,result,n,i+1);
-            list.remove(list.size()-1);
-        }
+         return ;
+       }
+       list.add(nums[start]);
+       helper(nums,list,result,n, start+1);
+       list.remove(list.size()-1);
+       helper(nums,list,result,n,start+1);
     }
 }
