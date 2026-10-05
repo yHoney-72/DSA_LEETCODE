@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
@@ -119,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -324,10 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0630-course-schedule-iii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0767-reorganize-string) |
+| [0912-sort-an-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -670,4 +676,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0037-sudoku-solver) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
