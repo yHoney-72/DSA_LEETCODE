@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Array
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1654-minimum-jumps-to-reach-home) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2596-check-knight-tour-configuration](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
+| [2596-check-knight-tour-configuration](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Depth-First Search
 |  |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0814-binary-tree-pruning) |
 | [1020-number-of-enclaves](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1654-minimum-jumps-to-reach-home) |
+| [2596-check-knight-tour-configuration](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Indexed Tree
 |  |
 | ------- |
