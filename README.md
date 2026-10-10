@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0234-palindrome-linked-list) |
