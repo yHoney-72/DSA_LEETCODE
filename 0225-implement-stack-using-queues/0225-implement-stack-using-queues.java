@@ -1,33 +1,26 @@
 class MyStack {
-    private Queue<Integer>q1 ;
- 
+   Queue<Integer> que1;
     public MyStack() {
-        q1 = new LinkedList<>();
+        que1 = new ArrayDeque<>();
     }
     
     public void push(int x) {
-        q1.offer(x);
-     for(int i = 1; i<q1.size(); i++){
-        q1.offer(q1.poll());
-     }
+        que1.offer(x);
+        for(int i=1;i<que1.size();i++){//size = 3 hai to i = 1 , 2 do baar chal jaye
+         que1.offer(que1.poll()); 
+        }// uelogic yha to yha handle karke sirf push tc  O(n) kar lo nhi to ise o(1) rkho to pop and top ki tc bdegi is logic ke krn
     }
     
     public int pop() {
-        if(q1.isEmpty()){
-            return -1;
-        }
-        return q1.remove();
+       return que1.poll();
     }
     
     public int top() {
-      if(q1.isEmpty()){
-        return -1;
-      }  
-      return q1.peek();
+      return que1.peek();
     }
     
     public boolean empty() {
-        return q1.isEmpty();
+        return que1.isEmpty();
     }
 }
 
