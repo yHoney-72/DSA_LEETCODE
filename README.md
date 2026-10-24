@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0881-boats-to-save-people) |
+| [3794-reverse-string-prefix](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3794-reverse-string-prefix](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
