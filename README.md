@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 ## String
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2073-time-needed-to-buy-tickets](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Array
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1654-minimum-jumps-to-reach-home) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2073-time-needed-to-buy-tickets](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
