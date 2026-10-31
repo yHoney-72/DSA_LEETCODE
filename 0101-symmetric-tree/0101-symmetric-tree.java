@@ -18,16 +18,30 @@ class Solution {
         if(root==null){
             return true;
         }
-        return helper(root.left,root.right);
+        Queue<TreeNode>que = new LinkedList<>(); //ArrayDeque n lo kyuki null n jata usme 
+        que.offer(root.left);
+        que.offer(root.right);
+        while(!que.isEmpty()){
+            int size = que.size();
+            for(int i=0;i<size;i++){
+                TreeNode left = que.poll();
+                TreeNode right = que.poll();
+                 if(left==null&&right==null){
+                     continue;
+                }
+                if(left==null||right==null){
+                    return false;
+                }
+                if(left.val!=right.val){
+                    return false;
+                }
+                que.offer(left.left);
+                que.offer(right.right);
+                que.offer(left.right);
+                que.offer(right.left);
+            }
+        }
+       return true; 
     }
-    private boolean helper(TreeNode left, TreeNode right ){
-         if(left==null|| right==null){
-            return left==right;//dono null true ; ek null false 
-         }
-         if(left.val!=right.val){
-            return false;
-         }
-         return helper(left.left,right.right)&&helper(left.right,right.left);
-
-    }
+ 
 }
