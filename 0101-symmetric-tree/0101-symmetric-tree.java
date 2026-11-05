@@ -18,30 +18,15 @@ class Solution {
         if(root==null){
             return true;
         }
-        Queue<TreeNode>que = new LinkedList<>(); //ArrayDeque n lo kyuki null n jata usme 
-        que.offer(root.left);
-        que.offer(root.right);
-        while(!que.isEmpty()){
-            int size = que.size();
-            for(int i=0;i<size;i++){
-                TreeNode left = que.poll();
-                TreeNode right = que.poll();
-                 if(left==null&&right==null){
-                     continue;
-                }
-                if(left==null||right==null){
-                    return false;
-                }
-                if(left.val!=right.val){
-                    return false;
-                }
-                que.offer(left.left);
-                que.offer(right.right);
-                que.offer(left.right);
-                que.offer(right.left);
-            }
-        }
-       return true; 
+        return isSame(root.left,root.right);
     }
- 
+    private boolean isSame(TreeNode r ,TreeNode s){
+        if(r==null||s==null){
+            return r==s;
+        }
+        if(r.val!=s.val){
+            return false;
+        }
+        return isSame(r.left,s.right)&&isSame(r.right,s.left);
+    }
 }
