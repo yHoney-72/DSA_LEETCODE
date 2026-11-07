@@ -15,23 +15,20 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-       return height(root)!=-2;
+       if(root==null){
+        return true;
+       }
+       if(Math.abs(calHeight(root.left)-calHeight(root.right))>1){
+        return false;
+       }
+       return isBalanced(root.left) && isBalanced(root.right);
     }
-    private int height(TreeNode root){
+    private int calHeight(TreeNode root){
         if(root==null){
-            return -1;
+            return 0;
         }
-        int leftHeight =  height(root.left);
-        int rightHeight = height(root.right);
-        if(leftHeight==-2){ // height 0 1 se +ve number hota -2 leliye as a checker vas ye bf n hai -2 ki jagh -1 chod ke koi bi (-int) lelo vas -1 ko chod 0 and +ve int chod
-            return -2;
-        }
-        if(rightHeight==-2){
-            return -2;
-        }
-        if(Math.abs(leftHeight-rightHeight)>1){
-            return -2;
-        }
-        return 1+Math.max(leftHeight,rightHeight);
+        int left = calHeight(root.left);
+        int right = calHeight(root.right);
+        return 1+ Math.max(left,right);
     }
-}
+    }  
