@@ -14,41 +14,15 @@
  * }
  */
 class Solution {
-     List<Integer>list = new ArrayList<>();
+    private int sum =0;
     public TreeNode bstToGst(TreeNode root) {
-        if(root==null){
-            return null;
-        }
-        collect(root);
-        list.sort((a,b)->b-a);
-       return helper(root);
-    }
-    private void collect(TreeNode root){
-        if(root==null){
-            return ;
-        }
-        list.add(root.val);
-        collect(root.left);
-        collect(root.right);
-    }
-    private TreeNode helper(TreeNode root){
-        if(root==null){
-            return null;
-        }
-        root.val = calSum(root.val);
-        helper(root.left);
-        helper(root.right);
-        return root;
-    }
-    private int calSum (int val){
-        int sum = 0;
-        for(int i =0;i<list.size();i++){
-            sum+=list.get(i);
-            if(val==list.get(i)){
-                break;
-            }
-        }
-        return sum;
-    }
-   
+      if(root==null){
+        return null;
+      }   
+       bstToGst(root.right);
+       sum+=root.val;
+       root.val =sum;
+       bstToGst(root.left);
+       return root;
+    } 
 }
