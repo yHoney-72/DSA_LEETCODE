@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0814-binary-tree-pruning) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0732-my-calendar-iii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Binary Tree
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0814-binary-tree-pruning) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Data Stream
 |  |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0814-binary-tree-pruning) |
 | [1020-number-of-enclaves](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
