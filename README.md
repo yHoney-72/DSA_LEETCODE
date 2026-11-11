@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0669-trim-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0572-subtree-of-another-tree) |
