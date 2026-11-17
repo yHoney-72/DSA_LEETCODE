@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0732-my-calendar-iii) |
 | [0901-online-stock-span](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0901-online-stock-span) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Queue
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Binary Tree
 |  |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0784-letter-case-permutation](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0784-letter-case-permutation) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Matrix
 |  |
 | ------- |
@@ -602,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2596-check-knight-tour-configuration](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -627,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1654-minimum-jumps-to-reach-home) |
 | [2596-check-knight-tour-configuration](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Indexed Tree
@@ -807,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/yHoney-72/DSA_LEETCODE/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
