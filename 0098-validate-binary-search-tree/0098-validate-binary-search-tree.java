@@ -14,31 +14,19 @@
  * }
  */
 class Solution {
-    List<Integer>list;
     public boolean isValidBST(TreeNode root) {
        if(root==null){
         return true;
        }
-       list = new ArrayList<>();
-       helper(root);
-       for(int i=0;i<list.size()-1;i++){
-          if(list.get(i)>=list.get(i+1)){
-            return false;
-          }
-       }
-       return true;
+       return helper(root, Long.MIN_VALUE,Long.MAX_VALUE);
     }
-    private void helper(TreeNode root){
-      if(root==null){
-        return ;
-      }
-       helper(root.left);
-        list.add(root.val);
-       helper(root.right);
-    }
+   private boolean helper(TreeNode root, long min , long max){
+     if(root==null){
+        return true;
+     }
+     if(root.val<=min||root.val>=max){
+        return false;
+     }
+     return helper(root.left,min,root.val) && helper(root.right,root.val,max);     
+   }
 }
-
-// BST rule:
-// - Left subtree ke saare nodes strictly smaller (<) hone chahiye.
-// - Right subtree ke saare nodes strictly greater (>) hone chahiye.
-//2,2,2 hai to ye valid bst n kyuki 2<2 false hai 
