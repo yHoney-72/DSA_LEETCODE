@@ -1,45 +1,34 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-    ArrayList<Integer>inorder;
-    int idx =0;
+    List<TreeNode>list;
     public void recoverTree(TreeNode root) {
-       if(root==null){
-        return ;
-       }
-       inorder= new ArrayList<>();
-       helper(root);
-       inorder.sort(null);
-       formation(root);
-    }
-    private void helper(TreeNode root){
         if(root==null){
             return ;
         }
-        helper(root.left);
-        inorder.add(root.val);
-        helper(root.right);
-    }
-    private TreeNode formation(TreeNode root){
-        if(root==null){
-            return null;
+        list = new ArrayList<>();
+        inorder(root);
+        int first =-1, second =-1;
+        for(int i=0;i<list.size()-1;i++){
+            if(list.get(i).val>list.get(i+1).val){
+                first = i;
+                break;
+            }
         }
-        formation(root.left);
-        root.val = inorder.get(idx++);
-        formation(root.right);
-      return root;
+        for(int i=list.size()-1;i>0;i--){
+            if(list.get(i).val<list.get(i-1).val){
+                second =i;
+                break;
+            }
+        }
+        int temp = list.get(first).val;
+        list.get(first).val = list.get(second).val;
+        list.get(second).val= temp;
+    }
+    private void inorder(TreeNode root){
+        if(root==null){
+            return ;
+        }
+        inorder(root.left);
+        list.add(root);
+        inorder(root.right);
     }
 }
