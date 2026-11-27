@@ -14,28 +14,23 @@
  * }
  */
 class Solution {
-    int inorder[];
-    HashMap<Integer,Integer>map;
     int preIdx = 0;
     public TreeNode bstFromPreorder(int[] preorder) {
-        int n = preorder.length;
-        map = new HashMap<>();
-        inorder = Arrays.copyOf(preorder,n);
-        Arrays.sort(inorder);
-        for(int i=0;i<n;i++){
-            map.put(inorder[i],i);
-        }
-        return helper(preorder,0,n-1);
+         return helper(preorder,Long.MIN_VALUE, Long.MAX_VALUE);
+        
     }
-    private TreeNode helper(int[]preorder, int st, int end){
-        if(st>end){
+    private TreeNode helper(int[]preorder,long min, long max){
+        if(preIdx==preorder.length){
             return null;
         }
-        int val = preorder[preIdx++];
+        int val = preorder[preIdx];
+        if(val<=min||val>=max){
+            return null;
+        }
+        preIdx++;
         TreeNode root = new TreeNode(val);
-        int inIdx = map.get(val);
-        root.left = helper(preorder,st,inIdx-1);
-        root.right = helper(preorder,inIdx+1,end);
+        root.left = helper(preorder,min,val);
+        root.right = helper(preorder,val,max);
         return root;
     }
 }
